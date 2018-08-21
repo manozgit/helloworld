@@ -1,2 +1,2 @@
-# helloworld - A classic project for beginners one more feature
+# helloworld - A classic project for beginners two more feature
 First Git
